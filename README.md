@@ -1,0 +1,2 @@
+# Konum-Paylasim-Uygulamasi
+ 
